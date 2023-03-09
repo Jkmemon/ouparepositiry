@@ -1,6 +1,0 @@
-hello
-hello dev1
-git push
-hello push
-new push
-hello origin
